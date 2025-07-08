@@ -19,7 +19,7 @@
     <artifactId>spring-core</artifactId>
     <version>7.0.0-M6</version>
 </dependency>
-  <!-- comment added for githut test -->
+  <!-- comment added for github 1st time push, test for feature branch -->
   </dependencies>
   <build>
     <finalName>01_Maven_webapp</finalName>
